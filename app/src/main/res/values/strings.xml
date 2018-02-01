@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ButtonMix</string>
+    <string name="button_text">Button</string>
 </resources>
